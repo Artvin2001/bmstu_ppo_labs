@@ -1,0 +1,64 @@
+Конец работы, Дата, время - 07.08.2022 11:52:58, Тип времени - Local
+Начало работы меню, Дата, время - 07.08.2022 11:55:12, Тип времени - Local
+Info: выведена информация о климате, Дата, время - 07.08.2022 11:55:12, Тип времени - Local
+Info: выведен список стран, Дата, время - 07.08.2022 11:55:12, Тип времени - Local
+Конец работы, Дата, время - 07.08.2022 11:55:12, Тип времени - Local
+Начало работы меню, Дата, время - 07.08.2022 11:56:45, Тип времени - Local
+Info: выведен список стран, Дата, время - 07.08.2022 11:56:47, Тип времени - Local
+Info: выведен список отелей, Дата, время - 07.08.2022 11:56:54, Тип времени - Local
+Конец работы, Дата, время - 07.08.2022 11:56:56, Тип времени - Local
+Начало работы меню, Дата, время - 07.08.2022 12:25:36, Тип времени - Local
+Info: выведен список стран, Дата, время - 07.08.2022 12:25:39, Тип времени - Local
+Начало работы меню, Дата, время - 07.08.2022 12:30:32, Тип времени - Local
+Info: выведен список пользователей, Дата, время - 07.08.2022 12:30:37, Тип времени - Local
+Начало работы меню, Дата, время - 07.08.2022 12:32:01, Тип времени - Local
+Начало работы меню, Дата, время - 07.08.2022 12:35:02, Тип времени - Local
+Начало работы меню, Дата, время - 07.08.2022 12:36:56, Тип времени - Local
+Начало работы меню, Дата, время - 07.08.2022 17:52:05, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab6\TurHelper6\DataAccess\Converter.cs:line 23, Дата, время - 07.08.2022 17:54:40, Тип времени - Local
+Error: GetUserException, Дата, время - 07.08.2022 17:54:40, Тип времени - Local
+Начало работы меню, Дата, время - 07.08.2022 18:02:56, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab6\TurHelper6\DataAccess\Converter.cs:line 23, Дата, время - 07.08.2022 18:03:10, Тип времени - Local
+Error:TurHelper6.DataAccess.Exceptions.GetUserException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetUserException' was thrown.
+   at TurHelper6.Model.GetUserInfo(String Login) in C:\ppo\lab6\TurHelper6\Model.cs:line 71
+   at TurHelper6.Presenter.LoadUserInfo(String Login) in C:\ppo\lab6\TurHelper6\Presenter.cs:line 42, Дата, время - 07.08.2022 18:03:12, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab6\TurHelper6\DataAccess\Converter.cs:line 23, Дата, время - 07.08.2022 18:03:28, Тип времени - Local
+Error:TurHelper6.DataAccess.Exceptions.GetUserException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetUserException' was thrown.
+   at TurHelper6.Model.GetUserInfo(String Login) in C:\ppo\lab6\TurHelper6\Model.cs:line 71
+   at TurHelper6.Presenter.LoadUserInfo(String Login) in C:\ppo\lab6\TurHelper6\Presenter.cs:line 42, Дата, время - 07.08.2022 18:03:38, Тип времени - Local
+Конец работы, Дата, время - 07.08.2022 18:03:43, Тип времени - Local
+Начало работы меню, Дата, время - 09.08.2022 7:55:07, Тип времени - Local
+Info: выведен список стран, Дата, время - 09.08.2022 7:55:11, Тип времени - Local
+Info: выведен список отелей, Дата, время - 09.08.2022 7:55:18, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertHotelDaToBL(Hotels h) in C:\ppo\lab6\TurHelper6\DataAccess\Converter.cs:line 97, Дата, время - 09.08.2022 7:55:40, Тип времени - Local
+Error:TurHelper6.DataAccess.Exceptions.GetHotelException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetHotelException' was thrown.
+   at TurHelper6.Model.GetHotel(String Name) in C:\ppo\lab6\TurHelper6\Model.cs:line 157
+   at TurHelper6.Presenter.LoadHotel(String Name) in C:\ppo\lab6\TurHelper6\Presenter.cs:line 94, Дата, время - 09.08.2022 7:55:43, Тип времени - Local
+Info: выведен список пользователей, Дата, время - 09.08.2022 7:55:52, Тип времени - Local
+Конец работы, Дата, время - 09.08.2022 7:55:54, Тип времени - Local
+Начало работы меню, Дата, время - 09.08.2022 12:20:42, Тип времени - Local
+Начало работы меню, Дата, время - 09.08.2022 12:49:07, Тип времени - Local
+Начало работы меню, Дата, время - 09.08.2022 14:24:31, Тип времени - Local
+Начало работы меню, Дата, время - 09.08.2022 14:39:34, Тип времени - Local
+Info: выведен список стран, Дата, время - 09.08.2022 14:39:38, Тип времени - Local
+Info: выведен список пользователей, Дата, время - 09.08.2022 14:39:49, Тип времени - Local
+Конец работы, Дата, время - 09.08.2022 14:39:51, Тип времени - Local
+Начало работы меню, Дата, время - 09.08.2022 15:58:39, Тип времени - Local
+Info: выведена информация о климате, Дата, время - 09.08.2022 15:58:53, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertHotelDaToBL(Hotels h) in C:\ppo\lab6\TurHelper6\DataAccess\Converter.cs:line 97, Дата, время - 09.08.2022 15:59:10, Тип времени - Local
+Error:TurHelper6.DataAccess.Exceptions.GetHotelException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetHotelException' was thrown.
+   at TurHelper6.Model.GetHotel(String Name) in C:\ppo\lab6\TurHelper6\Model.cs:line 157
+   at TurHelper6.Presenter.LoadHotel(String Name) in C:\ppo\lab6\TurHelper6\Presenter.cs:line 94, Дата, время - 09.08.2022 15:59:12, Тип времени - Local
+Конец работы, Дата, время - 09.08.2022 15:59:15, Тип времени - Local
+Начало работы меню, Дата, время - 09.08.2022 15:59:20, Тип времени - Local
+Info: выведен список отелей, Дата, время - 09.08.2022 15:59:28, Тип времени - Local
+Info: выведена информация об отеле, Дата, время - 09.08.2022 15:59:41, Тип времени - Local
+Конец работы, Дата, время - 09.08.2022 15:59:48, Тип времени - Local
+Info: Insert Hotel in DA Facade, Дата, время - 14.08.2022 12:30:32, Тип времени - Local
+Info: start work
+, Дата, время - 14.08.2022 12:33:24, Тип времени - Local
