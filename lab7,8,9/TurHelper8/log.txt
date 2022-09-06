@@ -1,0 +1,523 @@
+Info: start work
+, Дата, время - 14.08.2022 12:34:23, Тип времени - Local
+Info: start work
+, Дата, время - 14.08.2022 12:34:37, Тип времени - Local
+Info: Insert Hotel in DA Facade, Дата, время - 14.08.2022 12:35:04, Тип времени - Local
+Info: start work
+, Дата, время - 14.08.2022 12:37:06, Тип времени - Local
+Info: start work
+, Дата, время - 14.08.2022 12:39:08, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 14.08.2022 12:39:27, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 14.08.2022 12:39:28, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 14.08.2022 12:39:30, Тип времени - Local
+Info: start work
+, Дата, время - 14.08.2022 12:40:35, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 14.08.2022 12:40:48, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 14.08.2022 12:40:48, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 14.08.2022 12:40:50, Тип времени - Local
+Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 14.08.2022 12:40:50, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 14.08.2022 12:41:00, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 14.08.2022 12:41:00, Тип времени - Local
+Info: start work
+, Дата, время - 14.08.2022 12:42:15, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 14.08.2022 12:42:22, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 14.08.2022 12:42:22, Тип времени - Local
+Info: insert hotel  country id - 2name - Греция, Дата, время - 14.08.2022 12:42:23, Тип времени - Local
+Info: Insert Hotel in DA Facade, Дата, время - 14.08.2022 12:42:38, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 14.08.2022 12:42:59, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 14.08.2022 12:42:59, Тип времени - Local
+Info: start work
+, Дата, время - 14.08.2022 12:43:54, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 14.08.2022 12:43:59, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 14.08.2022 12:43:59, Тип времени - Local
+Info: insert hotel  country id - 2name - Греция, Дата, время - 14.08.2022 12:44:01, Тип времени - Local
+Info: Insert Hotel in DA Facade, Дата, время - 14.08.2022 12:44:21, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 14.08.2022 12:44:31, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 14.08.2022 12:44:31, Тип времени - Local
+Info: start work
+, Дата, время - 15.08.2022 7:12:21, Тип времени - Local
+Info: start work
+, Дата, время - 15.08.2022 7:13:09, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 15.08.2022 7:13:14, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 15.08.2022 7:13:14, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 15.08.2022 7:13:23, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 15.08.2022 7:13:23, Тип времени - Local
+Info: start work
+, Дата, время - 15.08.2022 7:14:47, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 15.08.2022 7:14:55, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 15.08.2022 7:14:55, Тип времени - Local
+Info: start work
+, Дата, время - 15.08.2022 7:15:52, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 15.08.2022 7:15:57, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 15.08.2022 7:15:57, Тип времени - Local
+Info: start work
+, Дата, время - 21.08.2022 18:31:19, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 21.08.2022 18:31:58, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 21.08.2022 18:31:58, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 10:53:43, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 10:53:49, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 10:53:49, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:03:36, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:22:40, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:28:31, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:30:49, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:30:57, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:32:40, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:35:59, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab7, 8\TurHelper8\DataAccess\Converter.cs:line 23, Дата, время - 22.08.2022 11:36:17, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:38:54, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab7, 8\TurHelper8\DataAccess\Converter.cs:line 23, Дата, время - 22.08.2022 11:39:04, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:41:02, Тип времени - Local
+Info: Get User by login - , Дата, время - 22.08.2022 11:41:08, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab7, 8\TurHelper8\DataAccess\Converter.cs:line 23, Дата, время - 22.08.2022 11:41:12, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:42:30, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 22.08.2022 11:43:03, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 22.08.2022 11:43:03, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:44:33, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 11:44:53, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 11:44:53, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:45:57, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:47:29, Тип времени - Local
+Info: select user DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 11:47:35, Тип времени - Local
+Info: select user DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 22.08.2022 11:47:36, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:48:27, Тип времени - Local
+Info: select user moder, Дата, время - 22.08.2022 11:48:33, Тип времени - Local
+Info: Get User by login - moder, Дата, время - 22.08.2022 11:48:34, Тип времени - Local
+Info: Get User by login - moder, Дата, время - 22.08.2022 11:48:47, Тип времени - Local
+Info: select user Liill, Дата, время - 22.08.2022 11:48:50, Тип времени - Local
+Info: Get User by login - Liill, Дата, время - 22.08.2022 11:48:51, Тип времени - Local
+Info: select user moder, Дата, время - 22.08.2022 11:48:54, Тип времени - Local
+Info: Get User by login - moder, Дата, время - 22.08.2022 11:48:55, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:49:15, Тип времени - Local
+Info: select user moder, Дата, время - 22.08.2022 11:49:23, Тип времени - Local
+Info: Get User by login - moder, Дата, время - 22.08.2022 11:49:25, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 11:56:56, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 14:31:55, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 14:33:05, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 14:33:36, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 22.08.2022 14:33:40, Тип времени - Local
+Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 22.08.2022 14:33:40, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 14:39:16, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 14:41:17, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 22.08.2022 14:41:37, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 22.08.2022 14:41:37, Тип времени - Local
+Info: register user in form 9
+, Дата, время - 22.08.2022 14:43:52, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 14:43:52, Тип времени - Local
+Info: register user in form 9
+, Дата, время - 22.08.2022 14:43:59, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 14:43:59, Тип времени - Local
+Info: register user in form 9
+, Дата, время - 22.08.2022 14:44:50, Тип времени - Local
+Info: register user in form 9
+, Дата, время - 22.08.2022 14:45:03, Тип времени - Local
+Info: prepare register user in form 9
+, Дата, время - 22.08.2022 14:45:45, Тип времени - Local
+Info: register user in form 9
+, Дата, время - 22.08.2022 14:45:46, Тип времени - Local
+Info: prepare register user in form 9 s, Дата, время - 22.08.2022 14:48:19, Тип времени - Local
+Info: register user in form 9 , Дата, время - 22.08.2022 14:48:21, Тип времени - Local
+Info: prepare register user in form 9 , Дата, время - 22.08.2022 14:49:32, Тип времени - Local
+Info: login is already in use
+, Дата, время - 22.08.2022 14:49:33, Тип времени - Local
+Info: register user in form 9 , Дата, время - 22.08.2022 14:49:38, Тип времени - Local
+Info: prepare register user in form 9 , Дата, время - 22.08.2022 14:50:30, Тип времени - Local
+Info: getting info for registration, Дата, время - 22.08.2022 14:50:32, Тип времени - Local
+Info: Add user
+, Дата, время - 22.08.2022 14:50:32, Тип времени - Local
+Info: registered user in da facade, Дата, время - 22.08.2022 14:50:32, Тип времени - Local
+Info: Registered user in bl facade, Дата, время - 22.08.2022 14:50:32, Тип времени - Local
+Info: register user in form 9 , Дата, время - 22.08.2022 14:50:32, Тип времени - Local
+Info: Get User by login - , Дата, время - 22.08.2022 15:23:10, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab7, 8\TurHelper8\DataAccess\Converter.cs:line 23, Дата, время - 22.08.2022 15:23:18, Тип времени - Local
+Info: Get User by login - , Дата, время - 22.08.2022 15:24:17, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab7, 8\TurHelper8\DataAccess\Converter.cs:line 23, Дата, время - 22.08.2022 15:24:22, Тип времени - Local
+Info: get user in with login - Dendro, Дата, время - 22.08.2022 15:26:07, Тип времени - Local
+Info: Get User by login - Dendro, Дата, время - 22.08.2022 15:26:07, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 15:26:09, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 22.08.2022 15:26:12, Тип времени - Local
+Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 22.08.2022 15:26:12, Тип времени - Local
+Info: select user Liana, Дата, время - 22.08.2022 15:26:21, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 15:26:22, Тип времени - Local
+Info: get user in with login - Dendro, Дата, время - 22.08.2022 15:29:46, Тип времени - Local
+Info: Get User by login - Dendro, Дата, время - 22.08.2022 15:29:46, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 15:29:48, Тип времени - Local
+Info: get user in with login - Dendro, Дата, время - 22.08.2022 15:34:48, Тип времени - Local
+Info: Get User by login - Dendro, Дата, время - 22.08.2022 15:34:48, Тип времени - Local
+Info: start work
+, Дата, время - 22.08.2022 15:34:49, Тип времени - Local
+Info: select user Dendro, Дата, время - 22.08.2022 15:35:09, Тип времени - Local
+Info: Get User by login - Dendro, Дата, время - 22.08.2022 15:35:10, Тип времени - Local
+Info: prepare register user in form 9 , Дата, время - 22.08.2022 15:36:07, Тип времени - Local
+Info: getting info for registration, Дата, время - 22.08.2022 15:36:08, Тип времени - Local
+Info: Add user
+, Дата, время - 22.08.2022 15:36:09, Тип времени - Local
+Info: registered user in da facade, Дата, время - 22.08.2022 15:36:09, Тип времени - Local
+Info: Registered user in bl facade, Дата, время - 22.08.2022 15:36:09, Тип времени - Local
+Info: register user in form 9 , Дата, время - 22.08.2022 15:36:09, Тип времени - Local
+Info: start work, permission - 1
+, Дата, время - 22.08.2022 15:36:09, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 15:36:17, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 15:36:17, Тип времени - Local
+Info: get user in with login - Dendro, Дата, время - 22.08.2022 15:37:41, Тип времени - Local
+Info: Get User by login - Dendro, Дата, время - 22.08.2022 15:37:41, Тип времени - Local
+Info: start work, permission - 2, Дата, время - 22.08.2022 15:37:43, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 15:37:54, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 15:37:54, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 22.08.2022 15:37:55, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 22.08.2022 15:37:55, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 22.08.2022 15:38:03, Тип времени - Local
+Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 22.08.2022 15:38:03, Тип времени - Local
+Info: prepare register user in form 9 , Дата, время - 22.08.2022 17:31:40, Тип времени - Local
+Info: getting info for registration, Дата, время - 22.08.2022 17:31:43, Тип времени - Local
+Info: Add user
+, Дата, время - 22.08.2022 17:31:43, Тип времени - Local
+Info: registered user in da facade, Дата, время - 22.08.2022 17:31:43, Тип времени - Local
+Info: Registered user in bl facade, Дата, время - 22.08.2022 17:31:43, Тип времени - Local
+Info: register user in form 9 , Дата, время - 22.08.2022 17:31:43, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 17:31:43, Тип времени - Local
+Info: select user Liana, Дата, время - 22.08.2022 17:31:52, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 17:31:52, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 17:31:58, Тип времени - Local
+Info: select user Test, Дата, время - 22.08.2022 17:32:01, Тип времени - Local
+Info: select user Liana, Дата, время - 22.08.2022 17:32:02, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 17:32:04, Тип времени - Local
+Info: get user in with login - AdminTest, Дата, время - 22.08.2022 17:40:09, Тип времени - Local
+Info: Get User by login - AdminTest, Дата, время - 22.08.2022 17:40:09, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab7, 8\TurHelper8\DataAccess\Converter.cs:line 23, Дата, время - 22.08.2022 17:40:16, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 17:40:40, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 17:40:40, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 17:40:41, Тип времени - Local
+Info: select user Liana, Дата, время - 22.08.2022 17:40:48, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 17:40:55, Тип времени - Local
+Info: select user TestAdmin, Дата, время - 22.08.2022 17:40:57, Тип времени - Local
+Info: select user Liana, Дата, время - 22.08.2022 17:40:58, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 17:40:59, Тип времени - Local
+Info: select user Lonti, Дата, время - 22.08.2022 17:41:05, Тип времени - Local
+Info: select user Liana, Дата, время - 22.08.2022 17:41:12, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 17:41:14, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 17:41:20, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 17:41:20, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 17:41:25, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 17:41:30, Тип времени - Local
+Info: select user Liill, Дата, время - 22.08.2022 17:41:32, Тип времени - Local
+Info: Get User by login - Liill, Дата, время - 22.08.2022 17:41:33, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 17:46:46, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 17:46:46, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 17:46:48, Тип времени - Local
+Info: select user Liana, Дата, время - 22.08.2022 17:46:54, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 17:46:55, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 17:47:00, Тип времени - Local
+Info: select user TestAdmin, Дата, время - 22.08.2022 17:47:03, Тип времени - Local
+Info: select user Liana, Дата, время - 22.08.2022 17:47:04, Тип времени - Local
+Info: Get User by login - Liana, Дата, время - 22.08.2022 17:47:05, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 17:48:28, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 17:48:28, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 17:48:30, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 22.08.2022 17:48:33, Тип времени - Local
+Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 22.08.2022 17:48:33, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 17:48:34, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 17:48:34, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 22.08.2022 17:49:03, Тип времени - Local
+Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 22.08.2022 17:49:03, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 17:49:03, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 17:49:03, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 17:50:21, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 17:50:21, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 17:50:23, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 17:50:25, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 17:50:25, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 17:53:13, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 17:53:13, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 17:53:15, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 17:53:18, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 17:53:18, Тип времени - Local
+Info: select user Lonti, Дата, время - 22.08.2022 17:53:48, Тип времени - Local
+Info: Get User by login - Lonti, Дата, время - 22.08.2022 17:53:49, Тип времени - Local
+Info: Get User by login - Lonti, Дата, время - 22.08.2022 17:53:55, Тип времени - Local
+Info: select user Lonti, Дата, время - 22.08.2022 17:53:58, Тип времени - Local
+Info: Get User by login - Lonti, Дата, время - 22.08.2022 17:53:59, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 22.08.2022 17:54:03, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 22.08.2022 17:54:03, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 17:54:04, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 17:54:04, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 17:56:14, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 17:56:14, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 17:56:16, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 17:56:18, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 17:56:18, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 17:57:51, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 17:57:51, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 17:57:52, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 22.08.2022 17:57:56, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 22.08.2022 17:57:56, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 17:59:15, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 17:59:15, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 17:59:17, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 17:59:40, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 17:59:40, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 17:59:42, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 22.08.2022 17:59:45, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 22.08.2022 17:59:45, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 22.08.2022 17:59:47, Тип времени - Local
+Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 22.08.2022 17:59:47, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 18:01:43, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 18:01:43, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 18:01:44, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 22.08.2022 18:01:48, Тип времени - Local
+Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 22.08.2022 18:01:48, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 18:05:11, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 18:05:11, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 18:05:13, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 22.08.2022 18:05:16, Тип времени - Local
+Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 22.08.2022 18:05:16, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 19:26:21, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 19:26:21, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 19:26:23, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 22.08.2022 19:26:26, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 22.08.2022 19:26:26, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 19:29:33, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 19:29:33, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 19:29:35, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 22.08.2022 19:29:40, Тип времени - Local
+Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 22.08.2022 19:29:40, Тип времени - Local
+Info: get cities - 1, Дата, время - 22.08.2022 19:29:41, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 19:31:53, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 19:31:53, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 19:31:55, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 19:31:58, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 19:31:58, Тип времени - Local
+Info: get cities - 2, Дата, время - 22.08.2022 19:31:59, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 19:33:01, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 19:33:01, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 19:33:03, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 22.08.2022 19:33:06, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 22.08.2022 19:33:06, Тип времени - Local
+Info: get cities - 0, Дата, время - 22.08.2022 19:33:07, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 19:33:43, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 19:33:43, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 19:33:45, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 22.08.2022 19:33:50, Тип времени - Local
+Info: select coutnry 0 Испания, Дата, время - 22.08.2022 19:33:50, Тип времени - Local
+Info: get cities - 0, Дата, время - 22.08.2022 19:33:51, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 19:46:51, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 19:46:51, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 19:46:52, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 22.08.2022 19:46:55, Тип времени - Local
+Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 22.08.2022 19:46:55, Тип времени - Local
+Info: get cities - 1, Дата, время - 22.08.2022 19:46:57, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 21:06:15, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 21:06:15, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 21:06:17, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 21:06:20, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 21:06:20, Тип времени - Local
+Info: get user in with login - TestAdmin, Дата, время - 22.08.2022 21:22:13, Тип времени - Local
+Info: Get User by login - TestAdmin, Дата, время - 22.08.2022 21:22:13, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 22.08.2022 21:22:15, Тип времени - Local
+Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 22.08.2022 21:22:32, Тип времени - Local
+Info: select coutnry 2 Греция, Дата, время - 22.08.2022 21:22:32, Тип времени - Local
+Info: get cities - 2, Дата, время - 22.08.2022 21:23:24, Тип времени - Local
+Info: Get User by login - , Дата, время - 22.08.2022 21:23:27, Тип времени - Local
+Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab7, 8\TurHelper8\DataAccess\Converter.cs:line 23, Дата, время - 22.08.2022 21:23:29, Тип времени - Local
+Info: Info: get user in with login - TestAdmin, Дата, время - 24.08.2022 20:01:19, Тип времени - Local
+Info: Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab7, 8\TurHelper8\DataAccess\Converter.cs:line 23, Дата, время - 24.08.2022 20:01:33, Тип времени - Local
+Info: Info: get user in with login - , Дата, время - 24.08.2022 20:01:55, Тип времени - Local
+Info: Info: prepare register user in form 9 , Дата, время - 24.08.2022 20:02:08, Тип времени - Local
+Info: Info: getting info for registration, Дата, время - 24.08.2022 20:02:10, Тип времени - Local
+Info: Info: registered user in da facade, Дата, время - 24.08.2022 20:02:10, Тип времени - Local
+Info: Info: Registered user in bl facade, Дата, время - 24.08.2022 20:02:10, Тип времени - Local
+Info: Info: register user in form 9 , Дата, время - 24.08.2022 20:02:10, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 24.08.2022 20:02:10, Тип времени - Local
+Info: set countries list, Дата, время - 24.08.2022 20:02:12, Тип времени - Local
+Info: countries loaded, Дата, время - 24.08.2022 20:02:12, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 24.08.2022 20:02:14, Тип времени - Local
+Info: Info: select coutnry 0 Испания, Дата, время - 24.08.2022 20:02:14, Тип времени - Local
+Info: set hotel list, Дата, время - 24.08.2022 20:02:14, Тип времени - Local
+Error: TurHelper6.DataAccess.Exceptions.GetCityException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetCityException' was thrown.
+   at TurHelper8.UI.Presenters.HomePresenter.LoadCities(Int32 Id) in C:\ppo\lab7, 8\TurHelper8\UI\Presenters\HomePresenter.cs:line 63
+   at TurHelper8.Form2.button15_Click(Object sender, EventArgs e) in C:\ppo\lab7, 8\TurHelper8\UI\Form2.cs:line 393, Дата, время - 24.08.2022 20:02:20, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 24.08.2022 20:02:21, Тип времени - Local
+Info: Info: select coutnry 0 Испания, Дата, время - 24.08.2022 20:02:21, Тип времени - Local
+Info: set hotel list, Дата, время - 24.08.2022 20:02:21, Тип времени - Local
+Error: TurHelper6.DataAccess.Exceptions.GetCityException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetCityException' was thrown.
+   at TurHelper8.UI.Presenters.HomePresenter.LoadCities(Int32 Id) in C:\ppo\lab7, 8\TurHelper8\UI\Presenters\HomePresenter.cs:line 63
+   at TurHelper8.Form2.button15_Click(Object sender, EventArgs e) in C:\ppo\lab7, 8\TurHelper8\UI\Form2.cs:line 393, Дата, время - 24.08.2022 20:02:25, Тип времени - Local
+Info: set room list, Дата, время - 24.08.2022 20:02:29, Тип времени - Local
+Info: set room list, Дата, время - 24.08.2022 20:02:29, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 24.08.2022 20:02:31, Тип времени - Local
+Info: Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 24.08.2022 20:02:31, Тип времени - Local
+Info: set hotel list, Дата, время - 24.08.2022 20:02:31, Тип времени - Local
+Info: set room list, Дата, время - 24.08.2022 20:02:32, Тип времени - Local
+Info: room loaded, Дата, время - 24.08.2022 20:02:37, Тип времени - Local
+Info: set user list, Дата, время - 24.08.2022 20:02:38, Тип времени - Local
+Info: room loaded, Дата, время - 24.08.2022 20:02:41, Тип времени - Local
+Info: loaded hotel, Дата, время - 24.08.2022 20:02:45, Тип времени - Local
+Error: TurHelper6.DataAccess.Exceptions.GetCityException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetCityException' was thrown.
+   at TurHelper8.UI.Presenters.HomePresenter.LoadCities(Int32 Id) in C:\ppo\lab7, 8\TurHelper8\UI\Presenters\HomePresenter.cs:line 63
+   at TurHelper8.Form2.button15_Click(Object sender, EventArgs e) in C:\ppo\lab7, 8\TurHelper8\UI\Form2.cs:line 393, Дата, время - 24.08.2022 20:02:53, Тип времени - Local
+Info: Info: get user in with login - Testadmin, Дата, время - 24.08.2022 20:06:24, Тип времени - Local
+Info: Info: prepare register user in form 9 , Дата, время - 24.08.2022 20:06:43, Тип времени - Local
+Info: Info: getting info for registration, Дата, время - 24.08.2022 20:06:45, Тип времени - Local
+Info: Info: registered user in da facade, Дата, время - 24.08.2022 20:06:45, Тип времени - Local
+Info: Info: Registered user in bl facade, Дата, время - 24.08.2022 20:06:45, Тип времени - Local
+Info: Info: register user in form 9 , Дата, время - 24.08.2022 20:06:45, Тип времени - Local
+Info: start work, permission - 1, Дата, время - 24.08.2022 20:06:45, Тип времени - Local
+Info: set countries list, Дата, время - 24.08.2022 20:06:48, Тип времени - Local
+Info: countries loaded, Дата, время - 24.08.2022 20:06:48, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 24.08.2022 20:06:50, Тип времени - Local
+Info: Info: select coutnry 0 Испания, Дата, время - 24.08.2022 20:06:50, Тип времени - Local
+Info: set hotel list, Дата, время - 24.08.2022 20:06:50, Тип времени - Local
+Info: Get all cities for country 0, Дата, время - 24.08.2022 20:06:53, Тип времени - Local
+Error: TurHelper6.DataAccess.Exceptions.GetCityException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetCityException' was thrown.
+   at TurHelper8.UI.Presenters.HomePresenter.LoadCities(Int32 Id) in C:\ppo\lab7, 8\TurHelper8\UI\Presenters\HomePresenter.cs:line 63
+   at TurHelper8.Form2.button15_Click(Object sender, EventArgs e) in C:\ppo\lab7, 8\TurHelper8\UI\Form2.cs:line 393, Дата, время - 24.08.2022 20:06:54, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 24.08.2022 20:07:15, Тип времени - Local
+Info: Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 24.08.2022 20:07:15, Тип времени - Local
+Info: set hotel list, Дата, время - 24.08.2022 20:07:15, Тип времени - Local
+Info: Get all cities for country 1, Дата, время - 24.08.2022 20:07:16, Тип времени - Local
+Error: TurHelper6.DataAccess.Exceptions.GetCityException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetCityException' was thrown.
+   at TurHelper8.UI.Presenters.HomePresenter.LoadCities(Int32 Id) in C:\ppo\lab7, 8\TurHelper8\UI\Presenters\HomePresenter.cs:line 63
+   at TurHelper8.Form2.button15_Click(Object sender, EventArgs e) in C:\ppo\lab7, 8\TurHelper8\UI\Form2.cs:line 393, Дата, время - 24.08.2022 20:07:17, Тип времени - Local
+Info: Info: get user in with login - modertest, Дата, время - 24.08.2022 20:10:02, Тип времени - Local
+Info: start work, permission - 1, Дата, время - 24.08.2022 20:10:04, Тип времени - Local
+Info: set countries list, Дата, время - 24.08.2022 20:10:05, Тип времени - Local
+Info: countries loaded, Дата, время - 24.08.2022 20:10:05, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 24.08.2022 20:10:07, Тип времени - Local
+Info: Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 24.08.2022 20:10:07, Тип времени - Local
+Info: set hotel list, Дата, время - 24.08.2022 20:10:07, Тип времени - Local
+Info: Get all cities for country 1, Дата, время - 24.08.2022 20:10:08, Тип времени - Local
+Info: Get all cities in da facade for country 1, Дата, время - 24.08.2022 20:10:08, Тип времени - Local
+Error: TurHelper6.DataAccess.Exceptions.GetCityException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetCityException' was thrown.
+   at TurHelper8.UI.Presenters.HomePresenter.LoadCities(Int32 Id) in C:\ppo\lab7, 8\TurHelper8\UI\Presenters\HomePresenter.cs:line 63
+   at TurHelper8.Form2.button15_Click(Object sender, EventArgs e) in C:\ppo\lab7, 8\TurHelper8\UI\Form2.cs:line 393, Дата, время - 24.08.2022 20:10:09, Тип времени - Local
+Info: Info: get user in with login - modertest, Дата, время - 24.08.2022 20:11:39, Тип времени - Local
+Info: start work, permission - 1, Дата, время - 24.08.2022 20:11:40, Тип времени - Local
+Info: set countries list, Дата, время - 24.08.2022 20:11:41, Тип времени - Local
+Info: countries loaded, Дата, время - 24.08.2022 20:11:41, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 24.08.2022 20:11:42, Тип времени - Local
+Info: Info: select coutnry 2 Греция, Дата, время - 24.08.2022 20:11:42, Тип времени - Local
+Info: set hotel list, Дата, время - 24.08.2022 20:11:43, Тип времени - Local
+Info: Get all cities for country 2, Дата, время - 24.08.2022 20:11:44, Тип времени - Local
+Info: Get all cities in da facade for country 2, Дата, время - 24.08.2022 20:11:44, Тип времени - Local
+Info: Get all cities MSSQL for country 2, Дата, время - 24.08.2022 20:11:44, Тип времени - Local
+Error: TurHelper6.DataAccess.Exceptions.GetCityException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetCityException' was thrown.
+   at TurHelper8.UI.Presenters.HomePresenter.LoadCities(Int32 Id) in C:\ppo\lab7, 8\TurHelper8\UI\Presenters\HomePresenter.cs:line 63
+   at TurHelper8.Form2.button15_Click(Object sender, EventArgs e) in C:\ppo\lab7, 8\TurHelper8\UI\Form2.cs:line 393, Дата, время - 24.08.2022 20:11:45, Тип времени - Local
+Info: Info: prepare register user in form 9 , Дата, время - 30.08.2022 17:57:19, Тип времени - Local
+Info: Info: getting info for registration, Дата, время - 30.08.2022 17:57:21, Тип времени - Local
+Info: Info: Add user
+, Дата, время - 30.08.2022 17:57:22, Тип времени - Local
+Info: Info: registered user in da facade, Дата, время - 30.08.2022 17:57:22, Тип времени - Local
+Info: Info: Registered user in bl facade, Дата, время - 30.08.2022 17:57:22, Тип времени - Local
+Info: Info: register user in form 9 , Дата, время - 30.08.2022 17:57:22, Тип времени - Local
+Info: start work, permission - 1, Дата, время - 30.08.2022 17:57:22, Тип времени - Local
+Info: set countries list, Дата, время - 30.08.2022 17:57:23, Тип времени - Local
+Info: countries loaded, Дата, время - 30.08.2022 17:57:23, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=0 }, Дата, время - 30.08.2022 17:57:24, Тип времени - Local
+Info: Info: select coutnry 0 Испания, Дата, время - 30.08.2022 17:57:24, Тип времени - Local
+Info: set hotel list, Дата, время - 30.08.2022 17:57:24, Тип времени - Local
+Info: set room list, Дата, время - 30.08.2022 17:57:26, Тип времени - Local
+Info: set room list, Дата, время - 30.08.2022 17:57:27, Тип времени - Local
+Info: set room list, Дата, время - 30.08.2022 17:57:30, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 30.08.2022 17:57:31, Тип времени - Local
+Info: Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 30.08.2022 17:57:31, Тип времени - Local
+Info: set hotel list, Дата, время - 30.08.2022 17:57:31, Тип времени - Local
+Info: set room list, Дата, время - 30.08.2022 17:57:31, Тип времени - Local
+Info: set room list, Дата, время - 30.08.2022 17:57:32, Тип времени - Local
+Info: room loaded, Дата, время - 30.08.2022 17:57:37, Тип времени - Local
+Info: Get all cities for country 1, Дата, время - 30.08.2022 17:57:38, Тип времени - Local
+Info: Get all cities in da facade for country 1, Дата, время - 30.08.2022 17:57:38, Тип времени - Local
+Info: Info: get cities - 1, Дата, время - 30.08.2022 17:57:38, Тип времени - Local
+Info: set cities list, Дата, время - 30.08.2022 17:57:38, Тип времени - Local
+Info: cities loaded, Дата, время - 30.08.2022 17:57:38, Тип времени - Local
+Info: Info: Get User by login - , Дата, время - 30.08.2022 17:57:39, Тип времени - Local
+Info: Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab7, 8\TurHelper8\DataAccess\Converter.cs:line 23, Дата, время - 30.08.2022 17:57:44, Тип времени - Local
+Error: TurHelper6.DataAccess.Exceptions.GetUserException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetUserException' was thrown.
+   at TurHelper8.UI.Presenters.HomePresenter.LoadUser(String Login) in C:\ppo\lab7, 8\TurHelper8\UI\Presenters\HomePresenter.cs:line 108
+   at TurHelper8.Form2.button16_Click(Object sender, EventArgs e) in C:\ppo\lab7, 8\TurHelper8\UI\Form2.cs:line 399, Дата, время - 30.08.2022 17:57:52, Тип времени - Local
+Info: Get all cities for country 1, Дата, время - 30.08.2022 17:58:10, Тип времени - Local
+Info: Get all cities in da facade for country 1, Дата, время - 30.08.2022 17:58:10, Тип времени - Local
+Info: Info: get cities - 1, Дата, время - 30.08.2022 17:58:10, Тип времени - Local
+Info: set cities list, Дата, время - 30.08.2022 17:58:10, Тип времени - Local
+Info: cities loaded, Дата, время - 30.08.2022 17:58:10, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 30.08.2022 17:58:12, Тип времени - Local
+Info: Info: select coutnry 2 Греция, Дата, время - 30.08.2022 17:58:12, Тип времени - Local
+Info: set hotel list, Дата, время - 30.08.2022 17:58:12, Тип времени - Local
+Info: Get all cities for country 2, Дата, время - 30.08.2022 17:58:12, Тип времени - Local
+Info: Get all cities in da facade for country 2, Дата, время - 30.08.2022 17:58:12, Тип времени - Local
+Info: Info: get cities - 2, Дата, время - 30.08.2022 17:58:12, Тип времени - Local
+Info: set cities list, Дата, время - 30.08.2022 17:58:13, Тип времени - Local
+Info: cities loaded, Дата, время - 30.08.2022 17:58:13, Тип времени - Local
+Info: Info: Get User by login - , Дата, время - 30.08.2022 17:58:15, Тип времени - Local
+Info: Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab7, 8\TurHelper8\DataAccess\Converter.cs:line 23, Дата, время - 30.08.2022 17:58:18, Тип времени - Local
+Error: TurHelper6.DataAccess.Exceptions.GetUserException: Exception of type 'TurHelper6.DataAccess.Exceptions.GetUserException' was thrown.
+   at TurHelper8.UI.Presenters.HomePresenter.LoadUser(String Login) in C:\ppo\lab7, 8\TurHelper8\UI\Presenters\HomePresenter.cs:line 108
+   at TurHelper8.Form2.button16_Click(Object sender, EventArgs e) in C:\ppo\lab7, 8\TurHelper8\UI\Form2.cs:line 399, Дата, время - 30.08.2022 17:58:22, Тип времени - Local
+Info: Info: get user in with login - marilyn, Дата, время - 30.08.2022 18:00:39, Тип времени - Local
+Info: Info: Get User by login - marilyn, Дата, время - 30.08.2022 18:00:39, Тип времени - Local
+Info: Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at TurHelper.DataAccesss.Converter.ConvertUserDaToBL(Users u) in C:\ppo\lab7, 8\TurHelper8\DataAccess\Converter.cs:line 23, Дата, время - 30.08.2022 18:00:45, Тип времени - Local
+Info: Info: get user in with login - marylin, Дата, время - 30.08.2022 18:02:05, Тип времени - Local
+Info: Info: Get User by login - marylin, Дата, время - 30.08.2022 18:02:05, Тип времени - Local
+Info: start work, permission - 1, Дата, время - 30.08.2022 18:02:07, Тип времени - Local
+Info: set countries list, Дата, время - 30.08.2022 18:02:08, Тип времени - Local
+Info: countries loaded, Дата, время - 30.08.2022 18:02:08, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=1 }, Дата, время - 30.08.2022 18:02:09, Тип времени - Local
+Info: Info: select coutnry 1 Объединенные Арабские Эмираты, Дата, время - 30.08.2022 18:02:09, Тип времени - Local
+Info: set hotel list, Дата, время - 30.08.2022 18:02:09, Тип времени - Local
+Info: Get all cities for country 1, Дата, время - 30.08.2022 18:02:11, Тип времени - Local
+Info: Get all cities in da facade for country 1, Дата, время - 30.08.2022 18:02:11, Тип времени - Local
+Info: Info: get cities - 1, Дата, время - 30.08.2022 18:02:11, Тип времени - Local
+Info: set cities list, Дата, время - 30.08.2022 18:02:11, Тип времени - Local
+Info: cities loaded, Дата, время - 30.08.2022 18:02:11, Тип времени - Local
+Info: city loaded, Дата, время - 30.08.2022 18:02:13, Тип времени - Local
+Info: Info: prepare register user in form 9 , Дата, время - 30.08.2022 18:04:28, Тип времени - Local
+Info: Info: getting info for registration, Дата, время - 30.08.2022 18:04:30, Тип времени - Local
+Info: Info: registered user in da facade, Дата, время - 30.08.2022 18:04:30, Тип времени - Local
+Info: Info: Registered user in bl facade, Дата, время - 30.08.2022 18:04:30, Тип времени - Local
+Info: Info: register user in form 9 , Дата, время - 30.08.2022 18:04:30, Тип времени - Local
+Info: start work, permission - 0, Дата, время - 30.08.2022 18:04:30, Тип времени - Local
+Info: set countries list, Дата, время - 30.08.2022 18:04:31, Тип времени - Local
+Info: countries loaded, Дата, время - 30.08.2022 18:04:31, Тип времени - Local
+Info: Info: select coutnry DataGridViewTextBoxCell { ColumnIndex=0, RowIndex=2 }, Дата, время - 30.08.2022 18:04:32, Тип времени - Local
+Info: Info: select coutnry 2 Греция, Дата, время - 30.08.2022 18:04:32, Тип времени - Local
+Info: set hotel list, Дата, время - 30.08.2022 18:04:32, Тип времени - Local
+Info: set room list, Дата, время - 30.08.2022 18:04:36, Тип времени - Local
+Info: set room list, Дата, время - 30.08.2022 18:04:37, Тип времени - Local
+Info: loaded hotel, Дата, время - 30.08.2022 18:04:43, Тип времени - Local
