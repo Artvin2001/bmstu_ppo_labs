@@ -1,0 +1,13 @@
+C:\ppo\lab5\TurHelper5\obj\Debug\netcoreapp3.1\TurHelper5.csprojAssemblyReference.cache
+C:\ppo\lab5\TurHelper5\obj\Debug\netcoreapp3.1\TurHelper5.AssemblyInfoInputs.cache
+C:\ppo\lab5\TurHelper5\obj\Debug\netcoreapp3.1\TurHelper5.AssemblyInfo.cs
+C:\ppo\lab5\TurHelper5\obj\Debug\netcoreapp3.1\TurHelper5.csproj.CoreCompileInputs.cache
+C:\ppo\lab5\TurHelper5\bin\Debug\netcoreapp3.1\TurHelper5.exe
+C:\ppo\lab5\TurHelper5\bin\Debug\netcoreapp3.1\TurHelper5.deps.json
+C:\ppo\lab5\TurHelper5\bin\Debug\netcoreapp3.1\TurHelper5.runtimeconfig.json
+C:\ppo\lab5\TurHelper5\bin\Debug\netcoreapp3.1\TurHelper5.runtimeconfig.dev.json
+C:\ppo\lab5\TurHelper5\bin\Debug\netcoreapp3.1\TurHelper5.dll
+C:\ppo\lab5\TurHelper5\bin\Debug\netcoreapp3.1\TurHelper5.pdb
+C:\ppo\lab5\TurHelper5\obj\Debug\netcoreapp3.1\TurHelper5.dll
+C:\ppo\lab5\TurHelper5\obj\Debug\netcoreapp3.1\TurHelper5.pdb
+C:\ppo\lab5\TurHelper5\obj\Debug\netcoreapp3.1\TurHelper5.genruntimeconfig.cache
